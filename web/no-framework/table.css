@@ -10,7 +10,6 @@
   -webkit-box-shadow: 0 0 1px #888;
   box-shadow: 0 0 1px #888;
   -moz-border-radius: 4px;
-  -webkit-border-radius: 4px;
   border-radius: 4px;
 }
 .table thead td,
@@ -32,6 +31,7 @@
     -webkit-border-top-left-radius:4px;
     border-top-left-radius: 4px;
 }
+
 .table thead th:last-child {
     -moz-border-top-right-radius:4px;
     -webkit-border-top-right-radius:4px;
@@ -41,6 +41,7 @@
 .table tbody tr:nth-child(even) {
     background-color: #F9F9F9;
 }
+
 .table tbody tr:nth-child(odd) {
     background-color: #fff;
 }

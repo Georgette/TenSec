@@ -4,7 +4,8 @@
   "description": "interview",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "less": "^2.5.1"
   },
   "devDependencies": {},
   "scripts": {
